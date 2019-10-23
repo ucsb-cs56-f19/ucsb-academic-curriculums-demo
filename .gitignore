@@ -1,3 +1,9 @@
+# Do not store heroku.json or localhost.json in git
+# They contain secrets
+
+heroku.json
+localhost.json
+
 # For Maven
 
 target
