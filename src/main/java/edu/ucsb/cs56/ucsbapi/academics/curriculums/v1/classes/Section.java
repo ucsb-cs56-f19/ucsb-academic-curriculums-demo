@@ -10,6 +10,7 @@ public class Section {
     private int enrolledTotal;
     private int maxEnroll;
     private List<TimeLocation> timeLocations;
+    private List<Instructor> instructors;
 
     public Section () {}
 }
